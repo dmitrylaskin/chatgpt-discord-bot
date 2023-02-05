@@ -1,0 +1,48 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+
+# Build artifacts
+dist/
+build/
+
+# IDEs and editors
+.idea/
+.vscode/
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Generated files
+*.conf
+*.log
+*.pid
+*.seed
+*.pid.lock
+
+# Tests
+coverage/
+*.test.js
+
+# System files
+.DS_Store
+Thumbs.db
+
+# NPM packages
+package-lock.json
+yarn.lock
+
+# IDE files
+.editorconfig
+.prettierrc
+.eslintrc
